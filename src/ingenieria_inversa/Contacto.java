@@ -32,7 +32,6 @@ class Contacto {
 		return this.apellidos;
 	}
 
-	// 🔴 ahora crea el teléfono
 	public void agregarTelefono(String numero, TipoTelefono tipo) {
 		Telefono t = new Telefono(numero, tipo);
 		this.telefonos.add(t);
