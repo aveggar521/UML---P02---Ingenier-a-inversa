@@ -1,5 +1,0 @@
-¿Qué tipo de relación existe entre Agenda y Contacto?
-¿Qué tipo de relación existe entre Contacto y Telefono?
-¿Qué tipo de relación existe entre Contacto y Direccion?
-¿Por qué los tipos TipoTelefono y TipoVia se modelan como enumerados?
-¿Qué relaciones del diagrama son asociaciones simples y cuáles podrían interpretarse como agregación o composición?
